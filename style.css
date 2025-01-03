@@ -3,40 +3,10 @@ body {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.4;
-    color: var(--color-white);
+    color: white;
     margin: 0;
 }
-form {
-    background: var(--color-darkblue-alpha);
-    padding: 2.5rem 0.625rem;
-    border-radius: 0.25rem;
-}
-*, *::before, *::after {
-    box-sizing: border-box;
-}
-user agent stylesheet
-form {
-    display: block;
-    margin-top: 0em;
-    unicode-bidi: isolate;
-}
-body {
-    font-family: 'Poppins', sans-serif;
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1.4;
-    color: var(--color-white);
-    margin: 0;
-}
-:root {
-    --color-white: #f3f3f3;
-    --color-darkblue: #1b1b32;
-    --color-darkblue-alpha: rgba(27, 27, 50, 0.8);
-    --color-green: #37af65;
-}
-*, *::before, *::after {
-    box-sizing: border-box;
-}
-*, *::before, *::after {
-    box-sizing: border-box;
+form{
+    Background-color: darkblue;
+
 }
